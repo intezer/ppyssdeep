@@ -20,7 +20,7 @@ def get_requirements():
 
 
 setuptools.setup(name='ppyssdeep',
-                 version='0.0.1',
+                 version='0.0.2',
                  description='Pure python ssdeep hash.',
                  url='https://github.com/intezer/ppyssdeep',
                  packages=['ppyssdeep'],
